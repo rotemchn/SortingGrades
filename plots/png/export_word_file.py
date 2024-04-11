@@ -2,6 +2,7 @@ import os
 from docx import Document
 from docx.shared import Inches
 
+# This file makes a Word file from all the plots in this folder
 
 # Function to get list of PNG files in directory
 def get_png_files(directory):
